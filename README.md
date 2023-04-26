@@ -24,3 +24,6 @@ Algorithm:
 6 − return success.
 
 7 – END
+
+
+![image](https://user-images.githubusercontent.com/124857336/234474667-c7fae56d-8809-4326-8b0d-f7371b583c71.png)
